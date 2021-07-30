@@ -3,4 +3,4 @@ a dataset containing customer data of the FinTech firm LendingClub.
 
 We applied and experimented with the techniques learned in the realm of the course to predict which customers pay back their loans and which do not.
 
-A detailed verbal description of the conducted steps and the background is in our report that we handed in on July 30, 2021.
+A detailed verbal description of the conducted steps is in our report that we handed in on July 30, 2021.
